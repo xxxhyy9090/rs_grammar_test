@@ -1,2 +1,2 @@
 # rs_grammar_test
-通过一些基础的练习可以快速熟悉rust语法和特性以及开发思维
+Get familiar with Rust's syntax and features by practicing basic algorithms and data structures.
